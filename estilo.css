@@ -1,0 +1,22 @@
+body {
+    font: Arial, sans-serif;
+    color: #333;
+    background-color: #F0F0F0;
+    height: 100%;
+    box-sizing: border-box;
+    margin: 0;
+    display: flex;
+}
+
+header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 1rem;
+}
+
+h1 {
+    margin: 0;
+    text-align: center;
+    color: blue;
+}
